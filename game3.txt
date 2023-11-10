@@ -1,6 +1,6 @@
-Mate Buljan ima 0 pobjeda i 0 poraza
-Lea Maslov ima 0 pobjeda i 0 poraza
+Mate Buljan ima 0 pobjeda i 3 poraza
+Lea Maslov ima 3 pobjeda i 0 poraza
 
 . . O
 . O X
-. . X
+O . X
