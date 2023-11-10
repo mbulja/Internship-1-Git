@@ -4,4 +4,4 @@ Lea Maslov ima x pobjeda i y poraza
 
 . . O
 . O X
-. . X
+. X X
